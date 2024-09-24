@@ -45,8 +45,7 @@ int main() {
     int umur, faktor_aktivitas;
     
     // Input data pengguna
-    printf("|=============================================|\n");
- 	printf("|PROJECT      : JOBSHEET 2, Tugas 2 C         |\n");
+  printf("|=============================================|\n");
  	printf("|PROGRAMMER   : MUHAMMAD NABIL GHANI          |\n");
  	printf("|NIM          : 24343063                      |\n");
  	printf("|                                             |\n");
